@@ -1,5 +1,8 @@
-h1 {
+body {
     font-family: Arial, sans-serif;
-    font-size: 36px;
-    color: #333;
+    font-size: 24px;
+}
+
+h1 { color: rgba(150, 240, 0, 0.5);
+    font-family: 'Courier New', monospace;
 }
